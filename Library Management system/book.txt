@@ -1,0 +1,5 @@
+01,ULYSSES,James Joyce,26,$4
+02,LOLITA,Vladi Nabokov,22,$2.5
+03,CATCH-22,Joseph Heller,16,$2
+04,CLAUDIUS,Robert Graves,29,$6
+05,MAIN STREET,Sinc Lewis,15,$3
